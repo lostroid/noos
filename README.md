@@ -1,8 +1,7 @@
-### noos
-no os baremetal base  
+### noos : no os baremetal base  
 
 ### C base super loop syatem
-### Target board STM32H562ZI (NUCLEO-H563ZI)
+### Target board : STM32H562ZI (NUCLEO-H563ZI)
 
 목적   
 Bare Metal의 방식과 Polling 기반으로 동작에 규격화 목적    
