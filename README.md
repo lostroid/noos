@@ -1,7 +1,7 @@
 ### noos (no os baremetal base)  
 C base super loop syatem  
-Target board STM32H562ZI (NUCLEO-H563ZI)
-<img width="286" height="519" alt="image" src="https://github.com/user-attachments/assets/236be2e6-b912-41d6-aaed-9ef4e5f1d032" />
+Target board STM32H562ZI (NUCLEO-H563ZI)  
+<img width="286" height="519" alt="image" src="https://github.com/user-attachments/assets/236be2e6-b912-41d6-aaed-9ef4e5f1d032" />  
 
 목적   
 Bare Metal의 방식과 Polling 기반으로 동작에 규격화 목적    
