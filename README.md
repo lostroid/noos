@@ -1,7 +1,7 @@
 ### noos
 no os baremetal base  
 
-### C언어 Bare Metal 기반 오픈소스 입니다.  
+### C base super loop syatem
 
 목적   
 Bare Metal의 방식과 Polling 기반으로 동작에 규격화 목적    
